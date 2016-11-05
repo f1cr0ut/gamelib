@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d2663975-2055-4c87-8696-c16d9e230bee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\title">
+      <UniqueIdentifier>{3949583b-c374-469e-b86b-12ef0db7f38e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\sys">
+      <UniqueIdentifier>{b3bd1ee4-bf8a-461b-97bf-2bc581e8d1d0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\src\boot.cc">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\scene\title\title.cc">
+      <Filter>src\title</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\sys\system_task.cc">
+      <Filter>src\sys</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\src\boot.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\scene\title\title.h">
+      <Filter>src\title</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\sys\system_task.h">
+      <Filter>src\sys</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

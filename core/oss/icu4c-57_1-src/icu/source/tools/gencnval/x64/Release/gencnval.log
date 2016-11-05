@@ -1,0 +1,4 @@
+﻿  gencnval.c
+gencnval.c(966): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  gencnval.vcxproj -> C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\tools\gencnval\.\x64\Release\gencnval.exe
+  gencnval.vcxproj -> .\x64\Release/gencnval.pdb (Full PDB)

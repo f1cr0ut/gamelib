@@ -1,0 +1,14 @@
+﻿  ctest.c
+ctest.c(421): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  datamap.cpp
+  testdata.cpp
+  tstdtmod.cpp
+  uperf.cpp
+  ucln_ct.c
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\tools\ctestfw\.\x64\Release\ctestfw.dll) does not match the Linker's OutputFile property value (C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\bin64\icutest57.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1191,5): warning MSB8012: TargetName(ctestfw) does not match the Linker's OutputFile property value (icutest57). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     ライブラリ .\..\..\..\lib64\icutest.lib とオブジェクト .\..\..\..\lib64\icutest.exp を作成中
+  コード生成しています。
+  コード生成が終了しました。
+  ctestfw.vcxproj -> C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\tools\ctestfw\.\x64\Release\ctestfw.dll
+  ctestfw.vcxproj -> .\..\..\..\lib64\icutest.pdb (Full PDB)

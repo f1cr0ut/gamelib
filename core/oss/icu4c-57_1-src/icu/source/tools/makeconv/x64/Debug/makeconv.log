@@ -1,0 +1,10 @@
+﻿  gencnvex.c
+  ucnvstat.c
+  コードを生成中...
+  genmbcs.cpp
+  makeconv.cpp
+  コードを生成中...
+     ライブラリ .\x64\Debug\makeconv.lib とオブジェクト .\x64\Debug\makeconv.exp を作成中
+  makeconv.vcxproj -> C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\tools\makeconv\.\x64\Debug\makeconv.exe
+  makeconv.vcxproj -> .\x64\Debug/makeconv.pdb (Full PDB)
+          1 個のファイルをコピーしました。

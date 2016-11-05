@@ -1,0 +1,839 @@
+﻿  Performing Custom Build Tools
+          1 個のファイルをコピーしました。
+  Performing Custom Build Tools
+          1 個のファイルをコピーしました。
+  Performing Custom Build Tools
+          1 個のファイルをコピーしました。
+  Performing Custom Build Tools
+          1 個のファイルをコピーしました。
+  Performing Custom Build Tools
+          1 個のファイルをコピーしました。
+  Performing Custom Build Tools
+          1 個のファイルをコピーしました。
+  Performing Custom Build Tools
+          1 個のファイルをコピーしました。
+  Performing Custom Build Tools
+          1 個のファイルをコピーしました。
+  Performing Custom Build Tools
+          1 個のファイルをコピーしました。
+  Performing Custom Build Tools
+          1 個のファイルをコピーしました。
+  AlternateSubstSubtables.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  AnchorTables.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  ArabicLayoutEngine.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(207): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGSUBTable': class 'icu_57::LEReferenceTo<icu_57::GlyphSubstitutionTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphSubstitutionTables.h(28): note: 'icu_57::LEReferenceTo<icu_57::GlyphSubstitutionTableHeader>' の宣言を確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(214): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGDEFTable': class 'icu_57::LEReferenceTo<icu_57::GlyphDefinitionTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphSubstitutionTables.h(33): note: 'icu_57::LEReferenceTo<icu_57::GlyphDefinitionTableHeader>' の宣言を確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(221): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGPOSTable': class 'icu_57::LEReferenceTo<icu_57::GlyphPositioningTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphPositioningTables.h(30): note: 'icu_57::LEReferenceTo<icu_57::GlyphPositioningTableHeader>' の宣言を確認してください
+  ArabicShaping.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  CanonData.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  CanonShaping.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  ClassDefinitionTables.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(297): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(292): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<le_uint16>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のコンパイル中
+          with
+          [
+              T=le_uint16
+          ]
+  ClassDefinitionTables.cpp(72): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<le_uint16>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のリファレンスを確認してください
+          with
+          [
+              T=le_uint16
+          ]
+  ClassDefinitionTables.cpp(72): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<le_uint16>' のリファレンスを確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(282): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(277): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のコンパイル中
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeUtilities.h(27): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のリファレンスを確認してください
+  ContextualGlyphInsertionProc2.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(282): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(277): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::ContextualGlyphInsertionStateEntry2>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のコンパイル中
+  ContextualGlyphInsertionProc2.cpp(29): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::ContextualGlyphInsertionStateEntry2>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のリファレンスを確認してください
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\ContextualGlyphInsertionProc2.h(76): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::ContextualGlyphInsertionStateEntry2>' のリファレンスを確認してください
+  ContextualGlyphSubstProc.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(308): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(303): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<le_int16>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,std::size_t,le_uint32)' のコンパイル中
+          with
+          [
+              T=le_int16
+          ]
+  ContextualGlyphSubstProc.cpp(31): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<le_int16>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,std::size_t,le_uint32)' のリファレンスを確認してください
+          with
+          [
+              T=le_int16
+          ]
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\ContextualGlyphSubstProc.h(57): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<le_int16>' のリファレンスを確認してください
+  ContextualGlyphSubstProc2.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(297): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(292): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::LookupValue>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のコンパイル中
+          with
+          [
+              T=icu_57::LookupValue
+          ]
+  ContextualGlyphSubstProc2.cpp(131): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::LookupValue>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のリファレンスを確認してください
+          with
+          [
+              T=icu_57::LookupValue
+          ]
+  ContextualGlyphSubstProc2.cpp(131): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::LookupValue>' のリファレンスを確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(282): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(277): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::ContextualGlyphStateEntry2>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のコンパイル中
+  ContextualGlyphSubstProc2.cpp(28): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::ContextualGlyphStateEntry2>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のリファレンスを確認してください
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\ContextualGlyphSubstProc2.h(57): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::ContextualGlyphStateEntry2>' のリファレンスを確認してください
+  ContextualSubstSubtables.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  CoverageTables.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(282): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(277): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のコンパイル中
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeUtilities.h(27): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のリファレンスを確認してください
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeUtilities.h(27): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>' のリファレンスを確認してください
+  CursiveAttachmentSubtables.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(297): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(292): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::EntryExitRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のコンパイル中
+          with
+          [
+              T=icu_57::EntryExitRecord
+          ]
+  CursiveAttachmentSubtables.cpp(24): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::EntryExitRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のリファレンスを確認してください
+          with
+          [
+              T=icu_57::EntryExitRecord
+          ]
+  CursiveAttachmentSubtables.cpp(24): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::EntryExitRecord>' のリファレンスを確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(282): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(277): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のコンパイル中
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeUtilities.h(27): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のリファレンスを確認してください
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeUtilities.h(27): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>' のリファレンスを確認してください
+  DeviceTables.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  ExtensionSubtables.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  Features.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(297): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(292): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::FeatureRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のコンパイル中
+          with
+          [
+              T=icu_57::FeatureRecord
+          ]
+  Features.cpp(19): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::FeatureRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のリファレンスを確認してください
+          with
+          [
+              T=icu_57::FeatureRecord
+          ]
+  Features.cpp(19): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::FeatureRecord>' のリファレンスを確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(282): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(277): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のコンパイル中
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeUtilities.h(27): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のリファレンスを確認してください
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeUtilities.h(27): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>' のリファレンスを確認してください
+  GDEFMarkFilter.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  GlyphDefinitionTables.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  GlyphIterator.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  GlyphLookupTables.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  コードを生成中...
+  コンパイル中...
+  GlyphPositionAdjustments.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  GlyphPositioningTables.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  GlyphPosnLookupProc.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  GlyphSubstitutionTables.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  GlyphSubstLookupProc.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  GXLayoutEngine.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  GXLayoutEngine2.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  HangulLayoutEngine.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(207): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGSUBTable': class 'icu_57::LEReferenceTo<icu_57::GlyphSubstitutionTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphSubstitutionTables.h(28): note: 'icu_57::LEReferenceTo<icu_57::GlyphSubstitutionTableHeader>' の宣言を確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(214): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGDEFTable': class 'icu_57::LEReferenceTo<icu_57::GlyphDefinitionTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphSubstitutionTables.h(33): note: 'icu_57::LEReferenceTo<icu_57::GlyphDefinitionTableHeader>' の宣言を確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(221): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGPOSTable': class 'icu_57::LEReferenceTo<icu_57::GlyphPositioningTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphPositioningTables.h(30): note: 'icu_57::LEReferenceTo<icu_57::GlyphPositioningTableHeader>' の宣言を確認してください
+  HanLayoutEngine.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(207): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGSUBTable': class 'icu_57::LEReferenceTo<icu_57::GlyphSubstitutionTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphSubstitutionTables.h(28): note: 'icu_57::LEReferenceTo<icu_57::GlyphSubstitutionTableHeader>' の宣言を確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(214): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGDEFTable': class 'icu_57::LEReferenceTo<icu_57::GlyphDefinitionTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphSubstitutionTables.h(33): note: 'icu_57::LEReferenceTo<icu_57::GlyphDefinitionTableHeader>' の宣言を確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(221): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGPOSTable': class 'icu_57::LEReferenceTo<icu_57::GlyphPositioningTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphPositioningTables.h(30): note: 'icu_57::LEReferenceTo<icu_57::GlyphPositioningTableHeader>' の宣言を確認してください
+  IndicClassTables.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(282): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(277): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のコンパイル中
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeUtilities.h(27): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のリファレンスを確認してください
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeUtilities.h(27): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>' のリファレンスを確認してください
+  IndicLayoutEngine.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(207): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGSUBTable': class 'icu_57::LEReferenceTo<icu_57::GlyphSubstitutionTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphSubstitutionTables.h(28): note: 'icu_57::LEReferenceTo<icu_57::GlyphSubstitutionTableHeader>' の宣言を確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(214): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGDEFTable': class 'icu_57::LEReferenceTo<icu_57::GlyphDefinitionTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphSubstitutionTables.h(33): note: 'icu_57::LEReferenceTo<icu_57::GlyphDefinitionTableHeader>' の宣言を確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(221): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGPOSTable': class 'icu_57::LEReferenceTo<icu_57::GlyphPositioningTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphPositioningTables.h(30): note: 'icu_57::LEReferenceTo<icu_57::GlyphPositioningTableHeader>' の宣言を確認してください
+  IndicRearrangementProcessor.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+IndicRearrangementProcessor.cpp(97): warning C4018: '<=': signed と unsigned の数値を比較しようとしました。
+IndicRearrangementProcessor.cpp(118): warning C4018: '>=': signed と unsigned の数値を比較しようとしました。
+IndicRearrangementProcessor.cpp(153): warning C4018: '<=': signed と unsigned の数値を比較しようとしました。
+IndicRearrangementProcessor.cpp(179): warning C4018: '<=': signed と unsigned の数値を比較しようとしました。
+IndicRearrangementProcessor.cpp(205): warning C4018: '>=': signed と unsigned の数値を比較しようとしました。
+IndicRearrangementProcessor.cpp(231): warning C4018: '>=': signed と unsigned の数値を比較しようとしました。
+IndicRearrangementProcessor.cpp(259): warning C4018: '>': signed と unsigned の数値を比較しようとしました。
+IndicRearrangementProcessor.cpp(289): warning C4018: '>': signed と unsigned の数値を比較しようとしました。
+IndicRearrangementProcessor.cpp(319): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+IndicRearrangementProcessor.cpp(349): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(308): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(303): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<le_int16>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,std::size_t,le_uint32)' のコンパイル中
+          with
+          [
+              T=le_int16
+          ]
+  IndicRearrangementProcessor.cpp(26): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<le_int16>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,std::size_t,le_uint32)' のリファレンスを確認してください
+          with
+          [
+              T=le_int16
+          ]
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\IndicRearrangementProcessor.h(59): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<le_int16>' のリファレンスを確認してください
+  IndicRearrangementProcessor2.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+IndicRearrangementProcessor2.cpp(94): warning C4018: '<=': signed と unsigned の数値を比較しようとしました。
+IndicRearrangementProcessor2.cpp(115): warning C4018: '>=': signed と unsigned の数値を比較しようとしました。
+IndicRearrangementProcessor2.cpp(150): warning C4018: '<=': signed と unsigned の数値を比較しようとしました。
+IndicRearrangementProcessor2.cpp(176): warning C4018: '<=': signed と unsigned の数値を比較しようとしました。
+IndicRearrangementProcessor2.cpp(202): warning C4018: '>=': signed と unsigned の数値を比較しようとしました。
+IndicRearrangementProcessor2.cpp(228): warning C4018: '>=': signed と unsigned の数値を比較しようとしました。
+IndicRearrangementProcessor2.cpp(256): warning C4018: '>': signed と unsigned の数値を比較しようとしました。
+IndicRearrangementProcessor2.cpp(286): warning C4018: '>': signed と unsigned の数値を比較しようとしました。
+IndicRearrangementProcessor2.cpp(316): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+IndicRearrangementProcessor2.cpp(346): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(282): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(277): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::IndicRearrangementStateEntry2>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のコンパイル中
+  IndicRearrangementProcessor2.cpp(23): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::IndicRearrangementStateEntry2>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のリファレンスを確認してください
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\IndicRearrangementProcessor2.h(57): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::IndicRearrangementStateEntry2>' のリファレンスを確認してください
+  IndicReordering.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(282): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(277): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のコンパイル中
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeUtilities.h(27): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のリファレンスを確認してください
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeUtilities.h(27): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>' のリファレンスを確認してください
+  KernTable.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\KernTable.h(35): warning C4251: 'icu_57::KernTable::pairs': class 'icu_57::LEReferenceToArrayOf<icu_57::PairInfo>' は __export キーワードを使って class 'icu_57::KernTable' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\KernTable.h(35): note: 'icu_57::LEReferenceToArrayOf<icu_57::PairInfo>' の宣言を確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(282): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(277): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のコンパイル中
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeUtilities.h(27): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のリファレンスを確認してください
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeUtilities.h(27): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>' のリファレンスを確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(308): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(303): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::PairInfo>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,std::size_t,le_uint32)' のコンパイル中
+          with
+          [
+              T=icu_57::PairInfo
+          ]
+  KernTable.cpp(129): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::PairInfo>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,std::size_t,le_uint32)' のリファレンスを確認してください
+          with
+          [
+              T=icu_57::PairInfo
+          ]
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\KernTable.h(35): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::PairInfo>' のリファレンスを確認してください
+  KhmerLayoutEngine.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(207): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGSUBTable': class 'icu_57::LEReferenceTo<icu_57::GlyphSubstitutionTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphSubstitutionTables.h(28): note: 'icu_57::LEReferenceTo<icu_57::GlyphSubstitutionTableHeader>' の宣言を確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(214): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGDEFTable': class 'icu_57::LEReferenceTo<icu_57::GlyphDefinitionTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphSubstitutionTables.h(33): note: 'icu_57::LEReferenceTo<icu_57::GlyphDefinitionTableHeader>' の宣言を確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(221): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGPOSTable': class 'icu_57::LEReferenceTo<icu_57::GlyphPositioningTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphPositioningTables.h(30): note: 'icu_57::LEReferenceTo<icu_57::GlyphPositioningTableHeader>' の宣言を確認してください
+  KhmerReordering.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  LayoutEngine.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(207): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGSUBTable': class 'icu_57::LEReferenceTo<icu_57::GlyphSubstitutionTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphSubstitutionTables.h(28): note: 'icu_57::LEReferenceTo<icu_57::GlyphSubstitutionTableHeader>' の宣言を確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(214): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGDEFTable': class 'icu_57::LEReferenceTo<icu_57::GlyphDefinitionTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphSubstitutionTables.h(33): note: 'icu_57::LEReferenceTo<icu_57::GlyphDefinitionTableHeader>' の宣言を確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(221): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGPOSTable': class 'icu_57::LEReferenceTo<icu_57::GlyphPositioningTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphPositioningTables.h(30): note: 'icu_57::LEReferenceTo<icu_57::GlyphPositioningTableHeader>' の宣言を確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\KernTable.h(35): warning C4251: 'icu_57::KernTable::pairs': class 'icu_57::LEReferenceToArrayOf<icu_57::PairInfo>' は __export キーワードを使って class 'icu_57::KernTable' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\KernTable.h(35): note: 'icu_57::LEReferenceToArrayOf<icu_57::PairInfo>' の宣言を確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(282): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(277): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のコンパイル中
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeUtilities.h(27): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のリファレンスを確認してください
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeUtilities.h(27): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>' のリファレンスを確認してください
+  LEFontInstance.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  LEGlyphStorage.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  コードを生成中...
+  コンパイル中...
+  LEInsertionList.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  LigatureSubstProc.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(282): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(277): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<le_int16>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のコンパイル中
+  LigatureSubstProc.cpp(86): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<le_int16>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のリファレンスを確認してください
+  LigatureSubstProc.cpp(86): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<le_int16>' のリファレンスを確認してください
+  LigatureSubstProc2.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(282): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(277): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::LigatureSubstitutionStateEntry2>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のコンパイル中
+  LigatureSubstProc2.cpp(36): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::LigatureSubstitutionStateEntry2>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のリファレンスを確認してください
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LigatureSubstProc2.h(62): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::LigatureSubstitutionStateEntry2>' のリファレンスを確認してください
+  LigatureSubstSubtables.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(297): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(292): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<TTGlyphID>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のコンパイル中
+          with
+          [
+              T=TTGlyphID
+          ]
+  LigatureSubstSubtables.cpp(31): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<TTGlyphID>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のリファレンスを確認してください
+          with
+          [
+              T=TTGlyphID
+          ]
+  LigatureSubstSubtables.cpp(31): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<TTGlyphID>' のリファレンスを確認してください
+  loengine.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  LookupProcessor.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(297): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(292): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<le_uint16>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のコンパイル中
+          with
+          [
+              T=le_uint16
+          ]
+  LookupProcessor.cpp(118): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<le_uint16>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のリファレンスを確認してください
+          with
+          [
+              T=le_uint16
+          ]
+  LookupProcessor.cpp(118): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<le_uint16>' のリファレンスを確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(282): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(277): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のコンパイル中
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeUtilities.h(27): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のリファレンスを確認してください
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeUtilities.h(27): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>' のリファレンスを確認してください
+  Lookups.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(297): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(292): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::Offset>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のコンパイル中
+          with
+          [
+              T=icu_57::Offset
+          ]
+  Lookups.cpp(17): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::Offset>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のリファレンスを確認してください
+          with
+          [
+              T=icu_57::Offset
+          ]
+  Lookups.cpp(17): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::Offset>' のリファレンスを確認してください
+  LookupTables.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  MarkArrays.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  MarkToBasePosnSubtables.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  MarkToLigaturePosnSubtables.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  MarkToMarkPosnSubtables.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  MirroredCharData.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  MorphTables.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(297): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(292): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::ChainHeader>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のコンパイル中
+          with
+          [
+              T=icu_57::ChainHeader
+          ]
+  MorphTables.cpp(27): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::ChainHeader>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のリファレンスを確認してください
+          with
+          [
+              T=icu_57::ChainHeader
+          ]
+  MorphTables.cpp(27): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::ChainHeader>' のリファレンスを確認してください
+  MorphTables2.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(297): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(292): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::FeatureTableEntry>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のコンパイル中
+          with
+          [
+              T=icu_57::FeatureTableEntry
+          ]
+  MorphTables2.cpp(49): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::FeatureTableEntry>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のリファレンスを確認してください
+          with
+          [
+              T=icu_57::FeatureTableEntry
+          ]
+  MorphTables2.cpp(49): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::FeatureTableEntry>' のリファレンスを確認してください
+  MPreFixups.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  MultipleSubstSubtables.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(297): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(292): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::Offset>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のコンパイル中
+          with
+          [
+              T=icu_57::Offset
+          ]
+  MultipleSubstSubtables.cpp(39): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::Offset>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のリファレンスを確認してください
+          with
+          [
+              T=icu_57::Offset
+          ]
+  MultipleSubstSubtables.cpp(39): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::Offset>' のリファレンスを確認してください
+  NonContextualGlyphSubstProc.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  NonContextualGlyphSubstProc2.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  OpenTypeLayoutEngine.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(207): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGSUBTable': class 'icu_57::LEReferenceTo<icu_57::GlyphSubstitutionTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphSubstitutionTables.h(28): note: 'icu_57::LEReferenceTo<icu_57::GlyphSubstitutionTableHeader>' の宣言を確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(214): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGDEFTable': class 'icu_57::LEReferenceTo<icu_57::GlyphDefinitionTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphSubstitutionTables.h(33): note: 'icu_57::LEReferenceTo<icu_57::GlyphDefinitionTableHeader>' の宣言を確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(221): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGPOSTable': class 'icu_57::LEReferenceTo<icu_57::GlyphPositioningTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphPositioningTables.h(30): note: 'icu_57::LEReferenceTo<icu_57::GlyphPositioningTableHeader>' の宣言を確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\KernTable.h(35): warning C4251: 'icu_57::KernTable::pairs': class 'icu_57::LEReferenceToArrayOf<icu_57::PairInfo>' は __export キーワードを使って class 'icu_57::KernTable' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\KernTable.h(35): note: 'icu_57::LEReferenceToArrayOf<icu_57::PairInfo>' の宣言を確認してください
+  コードを生成中...
+  コンパイル中...
+  OpenTypeUtilities.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(282): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(277): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のコンパイル中
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeUtilities.h(27): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のリファレンスを確認してください
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeUtilities.h(27): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>' のリファレンスを確認してください
+  PairPositioningSubtables.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(282): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(277): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のコンパイル中
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeUtilities.h(27): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のリファレンスを確認してください
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeUtilities.h(27): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>' のリファレンスを確認してください
+  ScriptAndLanguage.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(282): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(277): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のコンパイル中
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeUtilities.h(27): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のリファレンスを確認してください
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeUtilities.h(27): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::GlyphRangeRecord>' のリファレンスを確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(297): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(292): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::TagAndOffsetRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のコンパイル中
+          with
+          [
+              T=icu_57::TagAndOffsetRecord
+          ]
+  ScriptAndLanguage.cpp(20): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::TagAndOffsetRecord>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のリファレンスを確認してください
+          with
+          [
+              T=icu_57::TagAndOffsetRecord
+          ]
+  ScriptAndLanguage.cpp(20): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::TagAndOffsetRecord>' のリファレンスを確認してください
+  ScriptAndLanguageTags.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(207): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGSUBTable': class 'icu_57::LEReferenceTo<icu_57::GlyphSubstitutionTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphSubstitutionTables.h(28): note: 'icu_57::LEReferenceTo<icu_57::GlyphSubstitutionTableHeader>' の宣言を確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(214): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGDEFTable': class 'icu_57::LEReferenceTo<icu_57::GlyphDefinitionTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphSubstitutionTables.h(33): note: 'icu_57::LEReferenceTo<icu_57::GlyphDefinitionTableHeader>' の宣言を確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(221): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGPOSTable': class 'icu_57::LEReferenceTo<icu_57::GlyphPositioningTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphPositioningTables.h(30): note: 'icu_57::LEReferenceTo<icu_57::GlyphPositioningTableHeader>' の宣言を確認してください
+  SegmentArrayProcessor.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(282): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(277): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<TTGlyphID>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のコンパイル中
+  SegmentArrayProcessor.cpp(52): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<TTGlyphID>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のリファレンスを確認してください
+  SegmentArrayProcessor.cpp(52): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<TTGlyphID>' のリファレンスを確認してください
+  SegmentArrayProcessor2.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  SegmentSingleProcessor.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  SegmentSingleProcessor2.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  ShapingTypeData.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  SimpleArrayProcessor.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(297): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(292): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::LookupValue>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のコンパイル中
+          with
+          [
+              T=icu_57::LookupValue
+          ]
+  SimpleArrayProcessor.cpp(40): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::LookupValue>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のリファレンスを確認してください
+          with
+          [
+              T=icu_57::LookupValue
+          ]
+  SimpleArrayProcessor.cpp(40): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::LookupValue>' のリファレンスを確認してください
+  SimpleArrayProcessor2.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(297): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(292): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::LookupValue>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のコンパイル中
+          with
+          [
+              T=icu_57::LookupValue
+          ]
+  SimpleArrayProcessor2.cpp(30): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::LookupValue>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のリファレンスを確認してください
+          with
+          [
+              T=icu_57::LookupValue
+          ]
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\SimpleArrayProcessor2.h(53): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::LookupValue>' のリファレンスを確認してください
+  SinglePositioningSubtables.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  SingleSubstitutionSubtables.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  SingleTableProcessor.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  SingleTableProcessor2.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  StateTableProcessor.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(282): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(277): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::EntryTableIndex>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のコンパイル中
+  StateTableProcessor.cpp(73): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::EntryTableIndex>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のリファレンスを確認してください
+  StateTableProcessor.cpp(73): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::EntryTableIndex>' のリファレンスを確認してください
+  StateTableProcessor2.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(282): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(277): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::EntryTableIndex2>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のコンパイル中
+  StateTableProcessor2.cpp(47): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::EntryTableIndex2>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,std::size_t,le_uint32)' のリファレンスを確認してください
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\StateTableProcessor2.h(50): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::EntryTableIndex2>' のリファレンスを確認してください
+  SubstitutionLookups.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  SubtableProcessor.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  SubtableProcessor2.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  コードを生成中...
+  コンパイル中...
+  ThaiLayoutEngine.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\KernTable.h(35): warning C4251: 'icu_57::KernTable::pairs': class 'icu_57::LEReferenceToArrayOf<icu_57::PairInfo>' は __export キーワードを使って class 'icu_57::KernTable' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\KernTable.h(35): note: 'icu_57::LEReferenceToArrayOf<icu_57::PairInfo>' の宣言を確認してください
+  ThaiShaping.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  ThaiStateTables.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  TibetanLayoutEngine.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(207): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGSUBTable': class 'icu_57::LEReferenceTo<icu_57::GlyphSubstitutionTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphSubstitutionTables.h(28): note: 'icu_57::LEReferenceTo<icu_57::GlyphSubstitutionTableHeader>' の宣言を確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(214): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGDEFTable': class 'icu_57::LEReferenceTo<icu_57::GlyphDefinitionTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphSubstitutionTables.h(33): note: 'icu_57::LEReferenceTo<icu_57::GlyphDefinitionTableHeader>' の宣言を確認してください
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(221): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGPOSTable': class 'icu_57::LEReferenceTo<icu_57::GlyphPositioningTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphPositioningTables.h(30): note: 'icu_57::LEReferenceTo<icu_57::GlyphPositioningTableHeader>' の宣言を確認してください
+  TibetanReordering.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  TrimmedArrayProcessor.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  TrimmedArrayProcessor2.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(297): warning C4267: '=': 'size_t' から 'le_uint32' に変換しました。データが失われているかもしれません。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\LETableReference.h(292): note: クラス テンプレート のメンバー関数 'icu_57::LEReferenceToArrayOf<icu_57::LookupValue>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のコンパイル中
+          with
+          [
+              T=icu_57::LookupValue
+          ]
+  TrimmedArrayProcessor2.cpp(32): note: コンパイル対象の関数 テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::LookupValue>::LEReferenceToArrayOf(const icu_57::LETableReference &,LEErrorCode &,const T *,le_uint32)' のリファレンスを確認してください
+          with
+          [
+              T=icu_57::LookupValue
+          ]
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\TrimmedArrayProcessor2.h(55): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LEReferenceToArrayOf<icu_57::LookupValue>' のリファレンスを確認してください
+  ValueRecords.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  コードを生成中...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\.\x64\Debug\layout.dll) does not match the Linker's OutputFile property value (C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\bin64\icule57d.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1191,5): warning MSB8012: TargetName(layout) does not match the Linker's OutputFile property value (icule57d). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     ライブラリ ..\..\lib64\iculed.lib とオブジェクト ..\..\lib64\iculed.exp を作成中
+  layout.vcxproj -> C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\.\x64\Debug\layout.dll
+  layout.vcxproj -> .\..\..\lib64\iculed.pdb (Full PDB)

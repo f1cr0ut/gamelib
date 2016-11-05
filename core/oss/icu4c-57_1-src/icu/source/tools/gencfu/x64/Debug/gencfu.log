@@ -1,0 +1,5 @@
+﻿  gencfu.cpp
+gencfu.cpp(329): warning C4267: '初期化中': 'size_t' から 'long' に変換しました。データが失われているかもしれません。
+  gencfu.vcxproj -> C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\tools\gencfu\.\x64\Debug\gencfu.exe
+  gencfu.vcxproj -> .\x64\Debug/gencfu.pdb (Full PDB)
+          1 個のファイルをコピーしました。

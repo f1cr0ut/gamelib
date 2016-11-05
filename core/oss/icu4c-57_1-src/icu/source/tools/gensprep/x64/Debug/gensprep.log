@@ -1,0 +1,7 @@
+﻿  gensprep.c
+gensprep.c(356): warning C4244: '=': '__int64' から 'int32_t' への変換です。データが失われる可能性があります。
+  store.c
+  コードを生成中...
+  gensprep.vcxproj -> C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\tools\gensprep\.\x64\Debug\gensprep.exe
+  gensprep.vcxproj -> .\x64\Debug/gensprep.pdb (Full PDB)
+          1 個のファイルをコピーしました。

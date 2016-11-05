@@ -1,0 +1,17 @@
+﻿  errmsg.c
+  rbutil.c
+  read.c
+  rle.c
+  ustr.c
+  コードを生成中...
+  genrb.cpp
+  parse.cpp
+  prscmnts.cpp
+  reslist.cpp
+reslist.cpp(1396): warning C4244: '=': '__int64' から 'int32_t' への変換です。データが失われる可能性があります。
+  wrtjava.cpp
+  wrtxml.cpp
+  コードを生成中...
+     ライブラリ .\x64\Release\genrb.lib とオブジェクト .\x64\Release\genrb.exp を作成中
+  genrb.vcxproj -> C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\tools\genrb\.\x64\Release\genrb.exe
+  genrb.vcxproj -> .\x64\Release/genrb.pdb (Full PDB)

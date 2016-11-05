@@ -1,0 +1,75 @@
+﻿  collationinfo.cpp
+  ppucd.cpp
+  swapimpl.cpp
+  toolutil.cpp
+toolutil.cpp(144): warning C4244: '=': '__int64' から 'int32_t' への変換です。データが失われる可能性があります。
+  xmlparser.cpp
+  dbgutil.cpp
+  udbgutil.cpp
+udbgutil.cpp(398): warning C4267: '初期化中': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+udbgutil.cpp(410): warning C4267: '初期化中': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+udbgutil.cpp(417): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+udbgutil.cpp(786): warning C4503: 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::_Insert_hint': 装飾された名前の長さが限界を超えました。名前は切り捨てられます。
+          with
+          [
+              _Kty=std::string,
+              _Ty=std::map<std::string,std::set<std::string,std::less<std::string>,std::allocator<std::string>>,std::less<std::string>,std::allocator<std::pair<const std::string,std::set<std::string,std::less<std::string>,std::allocator<std::string>>>>>,
+              _Pr=std::less<std::string>,
+              _Alloc=std::allocator<std::pair<const std::string,std::map<std::string,std::set<std::string,std::less<std::string>,std::allocator<std::string>>,std::less<std::string>,std::allocator<std::pair<const std::string,std::set<std::string,std::less<std::string>,std::allocator<std::string>>>>>>>
+          ]
+udbgutil.cpp(786): warning C4503: 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::_Insert_at': 装飾された名前の長さが限界を超えました。名前は切り捨てられます。
+          with
+          [
+              _Kty=std::string,
+              _Ty=std::map<std::string,std::set<std::string,std::less<std::string>,std::allocator<std::string>>,std::less<std::string>,std::allocator<std::pair<const std::string,std::set<std::string,std::less<std::string>,std::allocator<std::string>>>>>,
+              _Pr=std::less<std::string>,
+              _Alloc=std::allocator<std::pair<const std::string,std::map<std::string,std::set<std::string,std::less<std::string>,std::allocator<std::string>>,std::less<std::string>,std::allocator<std::pair<const std::string,std::set<std::string,std::less<std::string>,std::allocator<std::string>>>>>>>
+          ]
+udbgutil.cpp(786): warning C4503: 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::_Insert_nohint': 装飾された名前の長さが限界を超えました。名前は切り捨てられます。
+          with
+          [
+              _Kty=std::string,
+              _Ty=std::map<std::string,std::set<std::string,std::less<std::string>,std::allocator<std::string>>,std::less<std::string>,std::allocator<std::pair<const std::string,std::set<std::string,std::less<std::string>,std::allocator<std::string>>>>>,
+              _Pr=std::less<std::string>,
+              _Alloc=std::allocator<std::pair<const std::string,std::map<std::string,std::set<std::string,std::less<std::string>,std::allocator<std::string>>,std::less<std::string>,std::allocator<std::pair<const std::string,std::set<std::string,std::less<std::string>,std::allocator<std::string>>>>>>>
+          ]
+  ucln_tu.cpp
+  コードを生成中...
+  denseranges.cpp
+  filetools.cpp
+filetools.cpp(131): warning C4267: '初期化中': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  package.cpp
+package.cpp(611): warning C4267: '初期化中': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+package.cpp(1044): warning C4267: '引数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+package.cpp(1290): warning C4477: 'fprintf' : 書式文字列 '%lu' には、型 'unsigned long' の引数が必要ですが、可変個引数 1 は型 'std::size_t' です
+  package.cpp(1290): note: 書式文字列に '%zu' を使用することをお勧めします
+  pkg_icu.cpp
+  pkgitems.cpp
+  ucbuf.cpp
+  コードを生成中...
+  filestrm.c
+filestrm.c(105): warning C4267: 'return': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+filestrm.c(112): warning C4267: 'return': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  flagparser.c
+  ucm.c
+  ucmstate.c
+  unewdata.c
+unewdata.c(62): warning C4267: '+=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+unewdata.c(69): warning C4267: '+=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+unewdata.c(72): warning C4267: '+=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  uoptions.c
+  uparse.c
+  writesrc.c
+  コードを生成中...
+  pkg_genc.c
+  pkg_gencmn.c
+pkg_gencmn.c(359): warning C4477: 'sprintf' : 書式文字列 '%lu' には、型 'unsigned long' の引数が必要ですが、可変個引数 1 は型 'unsigned __int64' です
+  pkg_gencmn.c(359): note: 書式文字列に '%llu' を使用することをお勧めします
+  pkg_gencmn.c(359): note: 書式文字列に '%Iu' を使用することをお勧めします
+  pkg_gencmn.c(359): note: 書式文字列に '%I64u' を使用することをお勧めします
+  コードを生成中...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\tools\toolutil\.\x64\Debug\toolutil.dll) does not match the Linker's OutputFile property value (C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\bin64\icutu57d.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1191,5): warning MSB8012: TargetName(toolutil) does not match the Linker's OutputFile property value (icutu57d). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     ライブラリ ..\..\..\lib64\icutud.lib とオブジェクト ..\..\..\lib64\icutud.exp を作成中
+  toolutil.vcxproj -> C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\tools\toolutil\.\x64\Debug\toolutil.dll
+  toolutil.vcxproj -> .\..\..\..\lib64\icutud.pdb (Full PDB)

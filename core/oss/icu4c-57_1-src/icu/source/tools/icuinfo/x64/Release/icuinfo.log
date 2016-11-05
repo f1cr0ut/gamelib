@@ -1,0 +1,6 @@
+﻿  icuinfo.cpp
+icuinfo.cpp(85): warning C4127: 条件式が定数です。
+icuinfo.cpp(94): warning C4127: 条件式が定数です。
+icuinfo.cpp(96): warning C4127: 条件式が定数です。
+  icuinfo.vcxproj -> C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\tools\icuinfo\.\x64\Release\icuinfo.exe
+  icuinfo.vcxproj -> x64\Release/icuinfo.pdb (Full PDB)

@@ -1,0 +1,10 @@
+﻿  pkgdata.cpp
+pkgdata.cpp(506): warning C4267: '初期化中': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+pkgdata.cpp(1220): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+pkgdata.cpp(1345): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+pkgdata.cpp(1374): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+pkgdata.cpp(1511): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+pkgdata.cpp(2086): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  pkgtypes.c
+  pkgdata.vcxproj -> C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\tools\pkgdata\.\x64\Release\pkgdata.exe
+  pkgdata.vcxproj -> .\x64\Release/pkgdata.pdb (Full PDB)

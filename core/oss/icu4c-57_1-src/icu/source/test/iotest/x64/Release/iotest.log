@@ -1,0 +1,12 @@
+﻿  filetst.c
+filetst.c(55): warning C4312: '型キャスト': 'unsigned int' からより大きいサイズの 'void *' へ変換します。
+filetst.c(732): warning C4267: '初期化中': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  strtst.c
+strtst.c(41): warning C4312: '型キャスト': 'unsigned int' からより大きいサイズの 'void *' へ変換します。
+  trnstst.c
+trnstst.c(194): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  コードを生成中...
+  iotest.cpp
+  stream.cpp
+  iotest.vcxproj -> C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\iotest\.\x64\Release\iotest.exe
+  iotest.vcxproj -> .\x64\Release/iotest.pdb (Full PDB)

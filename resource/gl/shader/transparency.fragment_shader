@@ -1,0 +1,10 @@
+uniform sampler2D texture;
+
+void main (void)  {     
+	vec4 color = texture2DProj(texture, gl_TexCoord[0]);
+	if(color.rgb == 0) {
+		color.a = 0;
+	}
+	color.rgba = 1.0f;
+   gl_FragColor = color;
+}

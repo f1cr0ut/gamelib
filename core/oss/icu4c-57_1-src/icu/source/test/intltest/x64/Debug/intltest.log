@@ -1,0 +1,218 @@
+﻿  bytestrietest.cpp
+bytestrietest.cpp(681): warning C4267: '初期化中': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+bytestrietest.cpp(696): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+bytestrietest.cpp(766): warning C4267: '初期化中': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+bytestrietest.cpp(821): warning C4267: '初期化中': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  collationtest.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\i18n\collationiterator.h(304): warning C4251: 'icu_57::CollationIterator::ceBuffer': class 'icu_57::CollationIterator::CEBuffer' は __export キーワードを使って class 'icu_57::CollationIterator' にエクスポートしてください。
+  C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\i18n\collationiterator.h(37): note: 'icu_57::CollationIterator::CEBuffer' の宣言を確認してください
+  colldata.cpp
+  numfmtspectest.cpp
+  regiontst.cpp
+  ucharstrietest.cpp
+  itrbbi.cpp
+  rbbiapts.cpp
+  rbbitst.cpp
+rbbitst.cpp(367): warning C4244: '=': 'int64_t' から 'int' への変換です。データが失われる可能性があります。
+rbbitst.cpp(1068): warning C4244: '=': 'int64_t' から 'int32_t' への変換です。データが失われる可能性があります。
+rbbitst.cpp(1147): warning C4244: '=': 'int64_t' から 'int32_t' への変換です。データが失われる可能性があります。
+rbbitst.cpp(1157): warning C4244: '初期化中': 'int64_t' から 'int32_t' への変換です。データが失われる可能性があります。
+rbbitst.cpp(1629): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  rbbimonkeytest.cpp
+rbbimonkeytest.cpp(910): warning C4244: '=': 'int64_t' から 'int32_t' への変換です。データが失われる可能性があります。
+  itspoof.cpp
+itspoof.cpp(383): warning C4267: '初期化中': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  allcoll.cpp
+  alphaindextst.cpp
+  apicoll.cpp
+  currcoll.cpp
+  decoll.cpp
+  encoll.cpp
+  escoll.cpp
+  ficoll.cpp
+  frcoll.cpp
+  コードを生成中...
+  コンパイル中...
+  g7coll.cpp
+  itercoll.cpp
+  jacoll.cpp
+  lcukocol.cpp
+  mnkytst.cpp
+  regcoll.cpp
+  srchtest.cpp
+  ssearch.cpp
+  svccoll.cpp
+  thcoll.cpp
+  trcoll.cpp
+  tscoll.cpp
+  ucaconf.cpp
+  uvectest.cpp
+  v32test.cpp
+  simplethread.cpp
+  strtest.cpp
+  tsmthred.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\common\unifiedcache.h(108): warning C4267: '引数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\common\unifiedcache.h(106): note: クラス テンプレート のメンバー関数 'int32_t icu_57::CacheKey<T>::hashCode(void) const' のコンパイル中
+          with
+          [
+              T=UCTMultiThreadItem
+          ]
+  C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\common\unifiedcache.h(134): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::CacheKey<T>' のリファレンスを確認してください
+          with
+          [
+              T=UCTMultiThreadItem
+          ]
+  tsmthred.cpp(1352): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LocaleCacheKey<UCTMultiThreadItem>' のリファレンスを確認してください
+  tsputil.cpp
+  uobjtest.cpp
+  コードを生成中...
+  コンパイル中...
+  astrotst.cpp
+  calcasts.cpp
+  callimts.cpp
+  calregts.cpp
+  caltest.cpp
+  caltztst.cpp
+  compactdecimalformattest.cpp
+  dadrcal.cpp
+  dadrfmt.cpp
+  datadrivennumberformattestsuite.cpp
+  dcfmapts.cpp
+  dcfmtest.cpp
+dcfmtest.cpp(501): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  dtfmapts.cpp
+  dtfmrgts.cpp
+  dtfmtrtts.cpp
+  dtfmttst.cpp
+dtfmttst.cpp(3901): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  dtifmtts.cpp
+  dtptngts.cpp
+  fldset.cpp
+  genderinfotest.cpp
+  コードを生成中...
+  コンパイル中...
+  incaltst.cpp
+  itformat.cpp
+  itrbnf.cpp
+  itrbnfp.cpp
+  itrbnfrt.cpp
+  locnmtst.cpp
+  measfmttest.cpp
+  miscdtfm.cpp
+  msfmrgts.cpp
+  nmfmapts.cpp
+  nmfmtrt.cpp
+  numberformattesttuple.cpp
+  numberformat2test.cpp
+numberformat2test.cpp(1145): warning C4146: 符号付きの値を代入する変数は、符号付き型にキャストしなければなりません。
+  numfmtst.cpp
+numfmtst.cpp(8288): warning C4244: '初期化中': 'double' から 'int64_t' への変換です。データが失われる可能性があります。
+numfmtst.cpp(8298): warning C4244: '初期化中': 'double' から 'int64_t' への変換です。データが失われる可能性があります。
+  numrgts.cpp
+  pluralmaptest.cpp
+  plurfmts.cpp
+  plurults.cpp
+plurults.cpp(643): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  pptest.cpp
+  quantityformattertest.cpp
+  コードを生成中...
+  コンパイル中...
+  reldatefmttest.cpp
+  scientificnumberformattertest.cpp
+  sdtfmtts.cpp
+  selfmts.cpp
+  tchcfmt.cpp
+  simpleformattertest.cpp
+  tfsmalls.cpp
+  tmsgfmt.cpp
+  tsdate.cpp
+  tsdcfmsy.cpp
+  tsdtfmsy.cpp
+  tsnmfmt.cpp
+  tufmtts.cpp
+  tzbdtest.cpp
+  tzfmttst.cpp
+  tzoffloc.cpp
+  tzregts.cpp
+  tzrulets.cpp
+  tztest.cpp
+  unifiedcachetest.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\common\unifiedcache.h(108): warning C4267: '引数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\common\unifiedcache.h(106): note: クラス テンプレート のメンバー関数 'int32_t icu_57::CacheKey<T>::hashCode(void) const' のコンパイル中
+          with
+          [
+              T=UCTItem2
+          ]
+  C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\common\unifiedcache.h(134): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::CacheKey<T>' のリファレンスを確認してください
+          with
+          [
+              T=UCTItem2
+          ]
+  unifiedcachetest.cpp(58): note: コンパイル対象のクラス テンプレート インスタンス化 'icu_57::LocaleCacheKey<UCTItem2>' のリファレンスを確認してください
+  コードを生成中...
+  コンパイル中...
+  windttst.cpp
+windttst.cpp(121): warning C4312: '型キャスト': 'int32_t' からより大きいサイズの 'LPWSTR' へ変換します。
+  winnmtst.cpp
+  idnaconf.cpp
+idnaconf.cpp(74): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+idnaconf.cpp(110): warning C4267: '引数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+idnaconf.cpp(116): warning C4267: '引数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  idnaref.cpp
+idnaref.cpp(816): warning C4244: '=': '__int64' から 'int32_t' への変換です。データが失われる可能性があります。
+idnaref.cpp(973): warning C4244: '=': '__int64' から 'int32_t' への変換です。データが失われる可能性があります。
+  nptrans.cpp
+  testidn.cpp
+  testidna.cpp
+  uts46test.cpp
+  aliastst.cpp
+  loctest.cpp
+  restest.cpp
+  restsnew.cpp
+  intltest.cpp
+intltest.cpp(2112): warning C4267: '初期化中': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  itmajor.cpp
+  itutil.cpp
+  testutil.cpp
+  textfile.cpp
+  tokiter.cpp
+  winutil.cpp
+  canittst.cpp
+  コードを生成中...
+  コンパイル中...
+  normconf.cpp
+  tstnorm.cpp
+  tstnrapi.cpp
+  ucdtest.cpp
+  usettest.cpp
+usettest.cpp(2896): warning C4267: 'return': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  regextst.cpp
+regextst.cpp(1883): warning C4267: '初期化中': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+regextst.cpp(1884): warning C4267: '初期化中': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+regextst.cpp(3923): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+regextst.cpp(5729): warning C4267: '引数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  icusvtst.cpp
+  citrtest.cpp
+  reptest.cpp
+  sfwdchit.cpp
+  strcase.cpp
+  ustrtest.cpp
+  utxttest.cpp
+  cpdtrtst.cpp
+  ittrans.cpp
+  jamotest.cpp
+  transapi.cpp
+  transrt.cpp
+  transtst.cpp
+  trnserr.cpp
+  コードを生成中...
+  コンパイル中...
+  convtest.cpp
+  csdetest.cpp
+  bidiconf.cpp
+  listformattertest.cpp
+  コードを生成中...
+  punyref.c
+     ライブラリ .\x64\Debug\intltest.lib とオブジェクト .\x64\Debug\intltest.exp を作成中
+  intltest.vcxproj -> C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\intltest\.\x64\Debug\intltest.exe
+  intltest.vcxproj -> .\x64\Debug/intltest.pdb (Full PDB)

@@ -1,0 +1,16 @@
+﻿  Performing Custom Build Tools
+  ICU path is C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\extra\uconv\..\..\..
+  Building uconvmsg.lib
+  # pkgdata: Reading pkgdatain.txt..
+  # Writing package file .\x64\Release\uconvmsg.dat ..
+  # Writing object code to  ..
+  genccode: --match-arch cpu=34404 bits=64 big-endian=0
+  pkgdata: LIB.exe /nologo /out:".\x64\Release\uconvmsg.lib" ".\x64\Release\uconvmsg_dat.obj"
+  All targets are up to date (mode static)
+  uconv.cpp
+uconv.cpp(737): warning C4267: '+=': 'size_t' から 'uint32_t' に変換しました。データが失われているかもしれません。
+uconv.cpp(975): warning C4244: '=': '__int64' から 'int32_t' への変換です。データが失われる可能性があります。
+  uwmsg.c
+     ライブラリ .\x64\Release\uconv.lib とオブジェクト .\x64\Release\uconv.exp を作成中
+  uconv.vcxproj -> C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\extra\uconv\.\x64\Release\uconv.exe
+  uconv.vcxproj -> .\x64\Release/uconv.pdb (Full PDB)

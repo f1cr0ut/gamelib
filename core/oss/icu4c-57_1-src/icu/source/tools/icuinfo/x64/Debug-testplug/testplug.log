@@ -1,0 +1,4 @@
+﻿  testplug.c
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\tools\icuinfo\.\x64\Debug-testplug\testplug.dll) does not match the Linker's OutputFile property value (C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\bin64\testplug.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  testplug.vcxproj -> C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\tools\icuinfo\.\x64\Debug-testplug\testplug.dll
+  testplug.vcxproj -> .\..\..\..\lib64\testplugd.pdb (Full PDB)

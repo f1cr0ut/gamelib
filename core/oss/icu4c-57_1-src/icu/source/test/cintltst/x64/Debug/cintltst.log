@@ -1,0 +1,191 @@
+﻿  cbididat.c
+  cbiditst.c
+cbiditst.c(510): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+cbiditst.c(4122): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+cbiditst.c(4202): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+cbiditst.c(4288): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+cbiditst.c(4860): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+cbiditst.c(4862): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+cbiditst.c(4871): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+cbiditst.c(4913): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  cbiapts.c
+  cbkittst.c
+  callcoll.c
+callcoll.c(422): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+callcoll.c(423): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+callcoll.c(743): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+callcoll.c(768): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+callcoll.c(795): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+callcoll.c(820): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+callcoll.c(844): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+callcoll.c(1100): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+callcoll.c(1195): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+callcoll.c(1196): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+callcoll.c(1197): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  capitst.c
+  ccolltst.c
+  ccurrtst.c
+  cdetst.c
+  cestst.c
+  cfintst.c
+  cfrtst.c
+  cg7coll.c
+  citertst.c
+  cjaptst.c
+  cmsccoll.c
+cmsccoll.c(4106): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+cmsccoll.c(4110): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+cmsccoll.c(5881): warning C4113: 'void (__cdecl *)()' はパラメーター リストが 'TestFunctionPtr' と異なります。
+  cturtst.c
+  encoll.c
+  usrchtst.c
+  chashtst.c
+  コードを生成中...
+  コンパイル中...
+  sorttest.c
+sorttest.c(208): warning C4113: 'void (__cdecl *)()' はパラメーター リストが 'TestFunctionPtr' と異なります。
+sorttest.c(210): warning C4113: 'void (__cdecl *)()' はパラメーター リストが 'TestFunctionPtr' と異なります。
+  trie2test.c
+  trietest.c
+  uenumtst.c
+uenumtst.c(370): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  bocu1tst.c
+  ccapitst.c
+ccapitst.c(852): warning C4267: '+=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+ccapitst.c(895): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+ccapitst.c(907): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+ccapitst.c(947): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+ccapitst.c(952): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+ccapitst.c(962): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+ccapitst.c(2525): warning C4267: '初期化中': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+ccapitst.c(2588): warning C4267: '初期化中': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  cconvtst.c
+  cctest.c
+  eurocreg.c
+  nccbtst.c
+  ncnvfbts.c
+  ncnvtst.c
+  nucnvtst.c
+nucnvtst.c(5498): warning C4244: '関数': '__int64' から 'int' への変換です。データが失われる可能性があります。
+nucnvtst.c(5545): warning C4244: '関数': '__int64' から 'int' への変換です。データが失われる可能性があります。
+  stdnmtst.c
+  ucnvseltst.c
+ucnvseltst.c(166): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  ucsdetst.c
+  udatatst.c
+  ccaltst.c
+ccaltst.c(1630): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  cdateintervalformattest.c
+  cdattst.c
+cdattst.c(552): warning C4244: '初期化中': '__int64' から 'int32_t' への変換です。データが失われる可能性があります。
+cdattst.c(1059): warning C4267: '初期化中': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+cdattst.c(1094): warning C4267: '初期化中': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  コードを生成中...
+  コンパイル中...
+  cdtdptst.c
+  cdtrgtst.c
+  cformtst.c
+  cgendtst.c
+  cmsgtst.c
+cmsgtst.c(1191): warning C4113: 'void (__cdecl *)()' はパラメーター リストが 'TestFunctionPtr' と異なります。
+  cnmdptst.c
+cnmdptst.c(967): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  cnumtst.c
+  cpluralrulestest.c
+  currtest.c
+currtest.c(172): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+currtest.c(179): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+currtest.c(186): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+currtest.c(253): warning C4267: '初期化中': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  udatpg_test.c
+  utmstest.c
+  cldrtest.c
+cldrtest.c(1430): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+cldrtest.c(1435): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+cldrtest.c(1440): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+cldrtest.c(1445): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  cloctst.c
+cloctst.c(5553): warning C4267: 'return': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+cloctst.c(5569): warning C4267: 'return': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+cloctst.c(5928): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  cposxtst.c
+  crelativedateformattest.c
+  crestst.c
+  creststn.c
+creststn.c(2793): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  calltest.c
+  cintltst.c
+  cutiltst.c
+  コードを生成中...
+  コンパイル中...
+  hpmufn.c
+  putiltst.c
+  tracetst.c
+tracetst.c(314): warning C4312: '型キャスト': 'unsigned int' からより大きいサイズの 'void *' へ変換します。
+  cnormtst.c
+  cucdapi.c
+cucdapi.c(612): warning C4133: '関数': 'UScriptCode [20]' と 'int32_t *' の間で型に互換性がありません。
+cucdapi.c(613): warning C4133: '関数': 'UScriptCode [20]' と 'int32_t *' の間で型に互換性がありません。
+cucdapi.c(614): warning C4133: '関数': 'UScriptCode [20]' と 'int32_t *' の間で型に互換性がありません。
+  cucdtst.c
+  usettest.c
+  cstrcase.c
+  cstrtest.c
+  custrtrn.c
+custrtrn.c(702): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+custrtrn.c(1031): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  custrtst.c
+  utexttst.c
+  utf16tst.c
+  utf8tst.c
+  utransts.c
+  reapits.c
+reapits.c(690): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(703): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(711): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(719): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(730): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(738): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(747): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(755): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(763): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(768): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(774): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(779): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(785): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(798): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(849): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(860): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(875): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(906): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(907): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(943): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(1190): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(1209): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(1228): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(1249): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(1255): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(1277): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(1288): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(1302): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(1321): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+reapits.c(2142): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  idnatest.c
+idnatest.c(826): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+idnatest.c(924): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+idnatest.c(932): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+idnatest.c(1002): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+idnatest.c(1008): warning C4267: '関数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  nfsprep.c
+  spreptst.c
+  sprpdata.c
+  コードを生成中...
+  コンパイル中...
+  spooftest.c
+spooftest.c(133): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+spooftest.c(143): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  uregiontest.c
+  ulistfmttest.c
+  コードを生成中...
+  cintltst.vcxproj -> C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\cintltst\.\x64\Debug\cintltst.exe
+  cintltst.vcxproj -> .\x64\Debug/cintltst.pdb (Full PDB)

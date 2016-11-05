@@ -1,0 +1,55 @@
+﻿  Performing Custom Build Tools
+          1 個のファイルをコピーしました。
+  Performing Custom Build Tools
+          1 個のファイルをコピーしました。
+  Performing Custom Build Tools
+          1 個のファイルをコピーしました。
+  Performing Custom Build Tools
+          1 個のファイルをコピーしました。
+  LXUtilities.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  ParagraphLayout.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_new.h(34): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_new.h(45): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_new.h(55): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_new.h(64): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  playout.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_new.h(34): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_new.h(45): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_new.h(55): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_new.h(64): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  plruns.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_new.h(34): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_new.h(45): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_new.h(55): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_new.h(64): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  RunArrays.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(411): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(427): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(439): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\include\unicode/utypes.h(450): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_new.h(34): warning C4595: 'operator new': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_new.h(45): warning C4595: 'operator new[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_new.h(55): warning C4595: 'operator delete': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_new.h(64): warning C4595: 'operator delete[]': 非メンバーの new または delete 演算子関数はインラインで宣言できません
+  コードを生成中...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layoutex\.\x64\Debug\layoutex.dll) does not match the Linker's OutputFile property value (C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\bin64\iculx57d.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1191,5): warning MSB8012: TargetName(layoutex) does not match the Linker's OutputFile property value (iculx57d). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     ライブラリ ..\..\lib64\iculxd.lib とオブジェクト ..\..\lib64\iculxd.exp を作成中
+  layoutex.vcxproj -> C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layoutex\.\x64\Debug\layoutex.dll
+  layoutex.vcxproj -> .\..\..\lib64\iculxd.pdb (Full PDB)

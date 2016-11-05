@@ -1,0 +1,31 @@
+﻿  cfonts.cpp
+  cmaps.cpp
+  FontTableCache.cpp
+  letest.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(207): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGSUBTable': class 'icu_57::LEReferenceTo<icu_57::GlyphSubstitutionTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphSubstitutionTables.h(28): note: 'icu_57::LEReferenceTo<icu_57::GlyphSubstitutionTableHeader>' の宣言を確認してください
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(214): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGDEFTable': class 'icu_57::LEReferenceTo<icu_57::GlyphDefinitionTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphSubstitutionTables.h(33): note: 'icu_57::LEReferenceTo<icu_57::GlyphDefinitionTableHeader>' の宣言を確認してください
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(221): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGPOSTable': class 'icu_57::LEReferenceTo<icu_57::GlyphPositioningTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphPositioningTables.h(30): note: 'icu_57::LEReferenceTo<icu_57::GlyphPositioningTableHeader>' の宣言を確認してください
+  letsutil.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(207): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGSUBTable': class 'icu_57::LEReferenceTo<icu_57::GlyphSubstitutionTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphSubstitutionTables.h(28): note: 'icu_57::LEReferenceTo<icu_57::GlyphSubstitutionTableHeader>' の宣言を確認してください
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(214): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGDEFTable': class 'icu_57::LEReferenceTo<icu_57::GlyphDefinitionTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphSubstitutionTables.h(33): note: 'icu_57::LEReferenceTo<icu_57::GlyphDefinitionTableHeader>' の宣言を確認してください
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(221): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGPOSTable': class 'icu_57::LEReferenceTo<icu_57::GlyphPositioningTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphPositioningTables.h(30): note: 'icu_57::LEReferenceTo<icu_57::GlyphPositioningTableHeader>' の宣言を確認してください
+  PortableFontInstance.cpp
+  SimpleFontInstance.cpp
+  xmlreader.cpp
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(207): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGSUBTable': class 'icu_57::LEReferenceTo<icu_57::GlyphSubstitutionTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphSubstitutionTables.h(28): note: 'icu_57::LEReferenceTo<icu_57::GlyphSubstitutionTableHeader>' の宣言を確認してください
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(214): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGDEFTable': class 'icu_57::LEReferenceTo<icu_57::GlyphDefinitionTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphSubstitutionTables.h(33): note: 'icu_57::LEReferenceTo<icu_57::GlyphDefinitionTableHeader>' の宣言を確認してください
+C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\OpenTypeLayoutEngine.h(221): warning C4251: 'icu_57::OpenTypeLayoutEngine::fGPOSTable': class 'icu_57::LEReferenceTo<icu_57::GlyphPositioningTableHeader>' は __export キーワードを使って class 'icu_57::OpenTypeLayoutEngine' にエクスポートしてください。
+  c:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\layout\GlyphPositioningTables.h(30): note: 'icu_57::LEReferenceTo<icu_57::GlyphPositioningTableHeader>' の宣言を確認してください
+  コードを生成中...
+  cletest.c
+     ライブラリ .\x64\Debug\letest.lib とオブジェクト .\x64\Debug\letest.exp を作成中
+  letest.vcxproj -> C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\letest\.\x64\Debug\letest.exe
+  letest.vcxproj -> .\x64\Debug/letest.pdb (Full PDB)

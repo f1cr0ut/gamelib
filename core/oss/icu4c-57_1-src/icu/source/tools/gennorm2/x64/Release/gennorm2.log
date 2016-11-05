@@ -1,0 +1,7 @@
+﻿  gennorm2.cpp
+  n2builder.cpp
+  コード生成しています。
+  All 104 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  gennorm2.vcxproj -> C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\tools\gennorm2\.\x64\Release\gennorm2.exe
+  gennorm2.vcxproj -> .\x64\Release\gennorm2.pdb (Full PDB)

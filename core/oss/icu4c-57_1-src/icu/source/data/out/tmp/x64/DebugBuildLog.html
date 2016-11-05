@@ -1,0 +1,65 @@
+﻿  
+  Microsoft(R) Program Maintenance Utility Version 14.00.24210.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  ICU data make path is C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\data\
+  ICU root path is C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu
+  ICU data source archive is C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\data\in\icudt57l.dat
+  Information: cannot find "spreplocal.mk". Not building user-additional stringprep files.
+  Creating data DLL version information from "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\data\misc\icudata.rc"
+  Microsoft (R) Windows (R) Resource Compiler Version 6.3.9600.17336
+  
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  
+  Building icu data from C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\data\in\icudt57l.dat
+  	cd "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\data\out\build\icudt57l"
+  	"C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\bin64\icupkg" -x * --list "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\data\in\icudt57l.dat" > "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\data\out\tmp\icudata.lst"
+  	"C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\bin64\pkgdata" -f -e icudt57 -v -m dll -c -p icudt57l -T "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\data\out\tmp" -L icudt57 -d "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\data\out\build\icudt57l" -s . "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\data\out\tmp\icudata.lst"
+     ライブラリ .\icudt.lib とオブジェクト .\icudt.exp を作成中
+  # pkgdata: Reading C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\data\out\tmp\icudata.lst..
+  # Writing package file C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\data\out\tmp\icudt57l.dat ..
+  # Writing object code to  ..
+  genccode: --match-arch cpu=34404 bits=64 big-endian=0
+  pkgdata: link.exe /nologo /release /out:".\icudt57.dll" /DLL /NOENTRY /MANIFEST:NO  /base:0x4ad00000 /implib:".\icudt.lib" "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\data\out\tmp\icudt57l_dat.obj" "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\data\out\tmp\icudata.res"
+  	copy "icudt57.dll" "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\bin64"
+          1 個のファイルをコピーしました。
+  	copy "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\data\out\tmp\icudt57l.dat" "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\data\out\icudt57l.dat"
+          1 個のファイルをコピーしました。
+  building testdata...
+  	nmake /nologo /f "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\testdata\testdata.mak" TESTDATA=. ICUTOOLS="C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\tools" ICUPBIN="C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\bin64" ICUP="C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu" CFG=x64\Debug TESTDATAOUT="C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\testdata\out" TESTDATABLD="C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\testdata\out\build"
+  Making Test Resource Bundle file with encoding
+  	"C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\tools\genrb\x64\Debug\genrb" -s"." -eUTF-16BE -d"C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\testdata\out\build" encoded.utf16be
+  Making Test Resource Bundle file for IDNA reference implementation
+  	"C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\tools\gentest\x64\Debug\gentest" -d"C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\testdata\out\build"
+  	"C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\tools\gentest\x64\Debug\gentest" -r -d"C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\testdata\out\build"
+  Generating testtable32.txt
+  	"C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\tools\genrb\x64\Debug\genrb" -s"C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\testdata\out\build" -d"C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\testdata\out\build" testtable32.txt
+  Building "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\testdata\out\build\test1.cnv"
+  Building "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\testdata\out\build\test1bmp.cnv"
+  Building "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\testdata\out\build\test2.cnv"
+  Building "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\testdata\out\build\test3.cnv"
+  Building "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\testdata\out\build\test4.cnv"
+  Building "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\testdata\out\build\test4x.cnv"
+  Building "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\testdata\out\build\test5.cnv"
+  Building "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\testdata\out\build\ibm9027.cnv"
+  Building "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\testdata\out\build\nfscsi.spp"
+  Building "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\testdata\out\build\nfscss.spp"
+  Building "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\testdata\out\build\nfscis.spp"
+  Building "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\testdata\out\build\nfsmxs.spp"
+  Building "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\testdata\out\build\nfsmxp.spp"
+  Building "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\testdata\out\build\testnorm.nrm"
+  gennorm2: processing testnorm.txt
+  Making Test Resource Bundle files .\calendar.txt .\format.txt .\casing.txt .\conversion.txt .\icuio.txt .\mc.txt .\structLocale.txt .\root.txt .\sh.txt .\sh_YU.txt .\te.txt .\te_IN.txt .\te_IN_REVISED.txt .\testaliases.txt .\testtypes.txt .\testempty.txt .\zoneinfo64.txt
+  genrb number of files: 17
+  Building test data
+          1 個のファイルをコピーしました。
+          1 個のファイルをコピーしました。
+          1 個のファイルをコピーしました。
+          1 個のファイルをコピーしました。
+  	"C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\bin64\pkgdata" -f -v -m common -c -p"testdata" -d "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\testdata\out" -T "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\testdata\out\build" -s "C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\testdata\out\build" C:\Users\メイフ\AppData\Local\Temp\nm3CC.tmp
+  # pkgdata: Reading C:\Users\メイフ\AppData\Local\Temp\nm3CC.tmp..
+  # Writing package file C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\testdata\out\build\testdata.dat ..
+  # Moving package file to C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\test\testdata\out\testdata.dat ..
+  Test data is built.
+  All targets are up to date

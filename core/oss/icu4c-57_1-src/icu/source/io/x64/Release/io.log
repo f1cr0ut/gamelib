@@ -1,0 +1,26 @@
+﻿  Performing Custom Build Tools
+          1 個のファイルをコピーしました。
+  Performing Custom Build Tools
+          1 個のファイルをコピーしました。
+  locbund.cpp
+  ucln_io.cpp
+  uprintf.cpp
+uprintf.cpp(184): warning C4267: '引数': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  ustream.cpp
+ustream.cpp(126): warning C4244: '初期化中': '__int64' から 'int32_t' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  sprintf.c
+  sscanf.c
+  ufile.c
+  ufmt_cmn.c
+ufmt_cmn.c(236): warning C4267: '=': 'size_t' から 'int32_t' に変換しました。データが失われているかもしれません。
+  uprntf_p.c
+  uscanf.c
+  uscanf_p.c
+  ustdio.c
+  コードを生成中...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\io\.\x64\Release\io.dll) does not match the Linker's OutputFile property value (C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\bin64\icuio57.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1191,5): warning MSB8012: TargetName(io) does not match the Linker's OutputFile property value (icuio57). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     ライブラリ ..\..\lib64\icuio.lib とオブジェクト ..\..\lib64\icuio.exp を作成中
+  io.vcxproj -> C:\ws\game\g2\code\core\oss\icu4c-57_1-src\icu\source\io\.\x64\Release\io.dll
+  io.vcxproj -> .\..\..\lib64\icuio.pdb (Full PDB)

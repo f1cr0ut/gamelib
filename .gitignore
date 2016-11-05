@@ -1,0 +1,3 @@
+output_debug_lib/*
+output_release_lib/*
+*.db
